@@ -3373,7 +3373,7 @@
 		color: #f2a3a5;
 		padding: 13em 0 11em 0;
 		background-color: #0c0c0c;
-		background-image: url("../../images/banner.png");
+		background-image: url("../../images/banner.jpg");
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: 15% left;
@@ -3752,10 +3752,10 @@
 /* Footer */
 
 	#footer {
-		background-color: #e5474b;
+		background-color: #848789;
 		color: #f2a3a5;
 		padding: 4em 0 2em 0;
-		background: #e5474b;
+		background: #848789;
 	}
 
 		#footer input, #footer select, #footer textarea {
